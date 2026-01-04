@@ -419,6 +419,8 @@ C'est comme la nature: l'ADN a une structure locale (double hélice φ-optimisé
 
 [**➔ Lire le Whitepaper 📖**](./docs/whitepaper.md)
 
+[**➔ Voir les formules 📖**](./docs/formulas.md)
+
 ---
 ## 🚀 Prochaines Étapes
 
