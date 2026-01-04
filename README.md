@@ -417,6 +417,9 @@ C'est comme la nature: l'ADN a une structure locale (double hélice φ-optimisé
 
 ---
 
+./docs/whitepaper.md
+
+---
 ## 🚀 Prochaines Étapes
 
 1. **Implémenter SpinLockE8** en Rust/Python
