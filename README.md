@@ -6,6 +6,7 @@
 [![Lattice](https://img.shields.io/badge/Lattice-E8_Root_System-indigo.svg)](docs/formulas.md)
 [![Topology](https://img.shields.io/badge/Topology-Kuramoto_Pentagonal-gold.svg)](docs/formulas.md)
 [![License](https://img.shields.io/badge/License-Apache_2.0-grey.svg)](LICENSE)
+![License](https://img.shields.io/badge/License-Open%20Source-green)
 
 ---
 ## 🏗️ L'Architecture Hybride
